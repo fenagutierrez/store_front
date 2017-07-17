@@ -5,8 +5,7 @@
   "homepage": "http://startbootstrap.com/template-overviews/creative",
   "author": "Start Bootstrap",
   "scripts": {
-    "start": "node --version",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "index.html",
   },
   "license": {
     "type": "MIT",
